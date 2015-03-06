@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica;
+}
+
+.cat {
+  display: none;
+}
+
+#catlist li{
+  text-decoration: underline;
+}
+
+
+#cat1 {
+  background-color: lightpink;
+}
+#cat2 {
+  background-color: lightblue;
+}
+#cat3 {
+  background-color: orange;
+}
+#cat4 {
+  background-color: lightyellow;
+}
+#cat5 {
+  background-color: lightgrey;
+}

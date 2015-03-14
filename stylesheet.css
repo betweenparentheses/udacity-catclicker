@@ -3,7 +3,7 @@ body {
 }
 
 .cat {
-  display: none;
+ /* display: none;*/
 }
 
 #catlist li{
